@@ -1,9 +1,9 @@
-import { Feedback } from "./Feedback/Feedback";
+import { PhoneBook } from "./PhoneBook/PhoneBook";
 
 function App() {
   return (
     <div>
-      <Feedback />
+      <PhoneBook />
     </div>
   );
 }
